@@ -1,6 +1,14 @@
 # <u>Generics</u>
 
 -------------
+<ul>
+<li>
+
+[Collections and Generics](Notes/generic_collections.md)
+</li>
+</ul>
+
+--------
 
 ### <u>introduction</u> 
 
@@ -29,5 +37,16 @@ Collections can contain any Object
 
 --------------
 
+-------------
+<ul>
+<li>
+
+[Collections and Generics](Notes/generic_collections.md)
+</li>
+</ul>
+
+--------
 
 
+
+    
