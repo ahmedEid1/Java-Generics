@@ -15,7 +15,7 @@
 -----
 Collections can contain any Object
 
-#### <u>example</u> 
+#### <u>example (circularBuffer)</u> 
 - to ensure type safety in a circularBuffer:
     - you need to force the parameters to be of the needed type
         - which mean you need an implementation for every type you need (StringCircularBuffer, IntCircularBuffer, ....)
