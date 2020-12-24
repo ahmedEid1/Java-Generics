@@ -1,13 +1,13 @@
-public class CircularBuffer {
-    private Object[] buffer;
+public class CircularBuffer<T> {
+    private T[] buffer;
     private int readCursor = 0;
     private int writeCursor= 0;
 
     public CircularBuffer(int size) {
-        buffer = new Object[size];
+        buffer = (T[]) new Object[size];
     }
 
-    public boolean offer(Object value) {
+    public boolean offer(T value) {
         if (buffer[writeCursor] != null)
             return false;
 
@@ -17,8 +17,8 @@ public class CircularBuffer {
         return true;
     }
 
-    public Object poll() {
-        Object value = buffer[readCursor];
+    public T poll() {
+        T value = buffer[readCursor];
         if (value != null) {
             buffer[readCursor] = null;
             readCursor = next(readCursor);
