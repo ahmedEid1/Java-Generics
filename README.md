@@ -18,6 +18,11 @@
 
 [Wildcard on Generics](Notes/wildcard_generics.md)
 </li>
+<li>
+
+[Generics Compatibility](Notes/rawtypes_and_compatiblity.md)
+</li>
+
 </ul>
 
 --------
@@ -67,6 +72,11 @@ Collections can contain any Object
 
 [Wildcard on Generics](Notes/wildcard_generics.md)
 </li>
+<li>
+
+[Generics Compatibility](Notes/rawtypes_and_compatiblity.md)
+</li>
+
 </ul>
 
 --------
