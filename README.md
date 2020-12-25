@@ -10,6 +10,10 @@
 
 [classes & interfaces and Generics](Notes/classes_and_interfaces.md)
 </li>
+<li>
+
+[Wildcard on Generics](Notes/wildcard_generics.md)
+</li>
 </ul>
 
 --------
@@ -46,6 +50,18 @@ Collections can contain any Object
 <li>
 
 [Collections and Generics](Notes/generic_collections.md)
+</li>
+<li>
+
+[classes & interfaces and Generics](Notes/classes_and_interfaces.md)
+</li>
+<li>
+
+[Generics on methods](Notes/generics_on_methods.md)
+</li>
+<li>
+
+[Wildcard on Generics](Notes/wildcard_generics.md)
 </li>
 </ul>
 
