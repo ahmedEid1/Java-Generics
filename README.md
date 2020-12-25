@@ -6,6 +6,10 @@
 
 [Collections and Generics](Notes/generic_collections.md)
 </li>
+<li>
+
+[classes & interfaces and Generics](Notes/classes_and_interfaces.md)
+</li>
 </ul>
 
 --------
