@@ -12,6 +12,10 @@
 </li>
 <li>
 
+[Generics on Methods](Notes/generics_on_methods.md)
+</li>
+<li>
+
 [Wildcard on Generics](Notes/wildcard_generics.md)
 </li>
 </ul>
