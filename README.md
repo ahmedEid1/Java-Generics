@@ -1,7 +1,7 @@
 # <u>Generics</u>
 
 -------------
-<ul>
+<ol>
 <li>
 
 [Collections and Generics](Notes/generic_collections.md)
@@ -26,8 +26,12 @@
 
 [Generics and reflection](Notes/reflections.md)
 </li>
+<li>
 
-</ul>
+[advance topics](Notes/advance.md)
+</li>
+
+</ol>
 
 --------
 
@@ -59,7 +63,7 @@ Collections can contain any Object
 --------------
 
 -------------
-<ul>
+<ol>
 <li>
 
 [Collections and Generics](Notes/generic_collections.md)
@@ -84,8 +88,11 @@ Collections can contain any Object
 
 [Generics and reflection](Notes/reflections.md)
 </li>
+<li>
 
-</ul>
+[advance topics](Notes/advance.md)
+</li>
+</ol>
 
 --------
 
