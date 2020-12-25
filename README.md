@@ -22,6 +22,10 @@
 
 [Generics Compatibility](Notes/rawtypes_and_compatiblity.md)
 </li>
+<li>
+
+[Generics and reflection](Notes/reflections.md)
+</li>
 
 </ul>
 
@@ -75,6 +79,10 @@ Collections can contain any Object
 <li>
 
 [Generics Compatibility](Notes/rawtypes_and_compatiblity.md)
+</li>
+<li>
+
+[Generics and reflection](Notes/reflections.md)
 </li>
 
 </ul>
